@@ -1,0 +1,28 @@
+{
+  "name": "switchbook",
+  "version": "1.0.0",
+  "description": "Mechanical keyboard enthusiast getting lost in all of those switches? We got you covered!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KZacharski/SwitchBook.git"
+  },
+  "author": "Puffercat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KZacharski/SwitchBook/issues"
+  },
+  "homepage": "https://github.com/KZacharski/SwitchBook#readme",
+  "dependencies": {
+    "less": "^4.1.2",
+    "vue": "^3.2.26"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "parcel": "^2.0.1",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7"
+  }
+}
